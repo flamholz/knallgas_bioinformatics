@@ -1,2 +1,3 @@
 # knallgas_bioinformatics
-self describing
+
+assumes the findabug API is installed.
